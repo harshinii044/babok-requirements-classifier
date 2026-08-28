@@ -16,9 +16,9 @@ Python, ChromaDB, Google Gemini API, Streamlit
 
 ## Screenshots
 
-Requirement classified as Solution - Functional
-<img width="1888" height="882" alt="Screenshot 2026-08-28 220817" src="https://github.com/user-attachments/assets/64980839-85ec-46f4-9c6a-644c86a13192" />
 Requirement classified as Stakeholder
+<img width="1888" height="882" alt="Screenshot 2026-08-28 220817" src="https://github.com/user-attachments/assets/64980839-85ec-46f4-9c6a-644c86a13192" />
+Requirement classified as Solution - Functional
 <img width="1902" height="895" alt="Screenshot 2026-08-28 220459" src="https://github.com/user-attachments/assets/5007bdbc-8d88-4f12-b1ca-709edd286464" />
 
 ## Notes
