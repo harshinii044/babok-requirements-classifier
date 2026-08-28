@@ -1,0 +1,20 @@
+BUSINESS REQUIREMENTS
+Business requirements are statements of goals, objectives, and outcomes that describe why a change has been initiated. They can apply to the whole of an enterprise, a business area, or a specific initiative.
+
+STAKEHOLDER REQUIREMENTS
+Stakeholder requirements describe the needs of stakeholders that must be met in order to achieve the business requirements. They may serve as a bridge between business and solution requirements.
+
+SOLUTION REQUIREMENTS
+Solution requirements describe the capabilities and qualities of a solution that meets the stakeholder requirements. They provide the appropriate level of detail to allow for the development and implementation of the solution. Solution requirements can be divided into two sub-categories: functional requirements and non-functional requirements.
+
+FUNCTIONAL REQUIREMENTS
+Functional requirements describe the capabilities that a solution must have in terms of the behaviour and information that the solution will manage.
+
+NON-FUNCTIONAL REQUIREMENTS
+Non-functional requirements, also called quality of service requirements, do not relate directly to the behaviour or functionality of the solution, but rather describe conditions under which a solution must remain effective or qualities that a solution must have.
+
+TRANSITION REQUIREMENTS
+Transition requirements describe the capabilities that the solution must have and the conditions the solution must meet to facilitate transition from the current state to the future state, but which are not needed once the change is complete. They are differentiated from other requirement types because they are of a temporary nature. Transition requirements address topics such as data conversion, training, and business continuity.
+
+REQUIREMENTS VS DESIGNS
+Requirements are focused on the need, designs are focused on the solution. The distinction between requirements and designs is not always clear, and the same techniques are used to elicit, model, and analyze both. A requirement leads to a design, which in turn may drive the discovery and analysis of more requirements.
