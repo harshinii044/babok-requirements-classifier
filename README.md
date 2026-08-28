@@ -14,7 +14,12 @@ A RAG app that classifies unstructured requirements into BABOK categories, groun
 
 Python, ChromaDB, Google Gemini API, Streamlit
 
-## Screenshot
+## Screenshots
+
+![Requirement classified as Solution - Functional]
+<img width="1902" height="895" alt="Screenshot 2026-08-28 220459" src="https://github.com/user-attachments/assets/b2088e9e-c19e-4524-a499-a4a4eae0fa7e" />
+![Requirement classified as Stakeholder]
+<img width="1888" height="882" alt="Screenshot 2026-08-28 220817" src="https://github.com/user-attachments/assets/98085885-9b30-4487-92ad-a9518da36959" />
 
 
 ## Notes
